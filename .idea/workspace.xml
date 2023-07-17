@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8fceda2-3bce-479d-bc78-bc9856d4fb1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/train.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/load_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.xlsx" beforeDir="false" />
-    </list>
+    <list default="true" id="f8fceda2-3bce-479d-bc78-bc9856d4fb1b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

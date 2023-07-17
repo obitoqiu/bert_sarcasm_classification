@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-# author: Jclian91
-# place: Pudong Shanghai
-# time: 2020-02-12 12:57
+
 import pandas as pd
 
 
@@ -13,6 +11,7 @@ def read_txt_file(file_path):
     labels, texts = [], []
     for line in content:
         parts = line.split()
+        print(parts)
         label, text = parts[0], ''.join(parts[1:])
         labels.append(label)
         texts.append(text)

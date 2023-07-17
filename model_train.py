@@ -16,7 +16,7 @@ from keras.layers import Input, BatchNormalization, Dense
 from bert.extract_feature import BertVector
 
 # 读取文件并进行转换
-bert_model = BertVector(pooling_strategy="REDUCE_MEAN", max_seq_len=100)
+bert_model = BertVector(pooling_strategy="REDUCE_MEAN", max_seq_len=150)
 print('begin encoding')
 f = lambda text: bert_model.encode([text])["encodes"][0]
 train_df['x'] = train_df['text'].apply(f)
